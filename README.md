@@ -22,5 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PamudiNaveesha&show_icons=true&locale=en" alt="PamudiNaveesha" /></p>
 
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PamudiNaveesha&theme=dark&hide_border=false" /> 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PamudiNaveesha&" alt="PamudiNaveesha" /></p>
 
