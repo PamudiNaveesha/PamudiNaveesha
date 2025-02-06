@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pamudi Naveesha 👋</h1>
+<h1 align="center">Hi 👋, I'm Pamudi Naveesha </h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 <br/>
 
